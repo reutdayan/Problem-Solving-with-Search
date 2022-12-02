@@ -2,7 +2,8 @@
 
 ## Problem:
 Finding the shortest path from a given source node to a target node in a graph.
-The data base i use is Israel roads in db/israel.csv from: [openstreetmap](https://www.openstreetmap.org/#map=19/32.08519/34.78910)
+<br>
+The database I use is Israel roads in db/israel.csv from: [openstreetmap](https://www.openstreetmap.org/#map=19/32.08519/34.78910)
 
 ## Algorithms:
 * best first search
