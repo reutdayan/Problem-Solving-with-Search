@@ -24,5 +24,6 @@ Calling best first search with heuristic function that calculate the sum of trav
 
 ### idA star:
 The idA star algorithm is an optimal algorithm.
+<br>
 Iterate A star with a limit on the heuristic function from the source node, in each iteration update the limit.
 
