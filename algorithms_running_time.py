@@ -15,7 +15,7 @@ def average_running_time():
         roads = load_map_from_csv()
         # run the ucs algorithm on the problems and measure the time
         start = time.time()
-        for problem in problems[20:30]:
+        for problem in problems[16:26]:
             ucs(roads, int(problem[0]), int(problem[1]))
         end = time.time()
         avg_ucs = (end - start) / 10
