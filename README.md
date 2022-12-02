@@ -1,4 +1,4 @@
-# Solve search problem using 3 algorithms:
+# Solve search problems using 3 algorithms:
 
 * UCS
 * A star
